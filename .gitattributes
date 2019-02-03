@@ -1,0 +1,2 @@
+README filter=lfs diff=lfs merge=lfs -text
+exec filter=lfs diff=lfs merge=lfs -text
